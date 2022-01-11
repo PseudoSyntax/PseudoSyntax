@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @PseudoSyntax
+![](https://komarev.com/ghpvc/?username=PseudoSyntax&label=Profile+Views&style=flat-square&color=blueviolet)
+
+- 👋 Hi, I’m Mr.ChickenCombo
 - 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning website backend development 
 - 💞️ I’m looking to collaborate on projects
