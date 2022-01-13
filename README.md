@@ -2,7 +2,6 @@
 
 - 👋 Hi, I’m Mr.ChickenCombo
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning website backend development 
 - 💞️ I’m looking to collaborate on projects
 - 📫 How to reach me: Discord
 
