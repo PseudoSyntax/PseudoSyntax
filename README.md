@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=PseudoSyntax&label=Profile+Views&style=flat-square&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=  &label=Profile+Views&style=flat-square&color=blueviolet)
 
 - 👋 Hi, I’m Mr.ChickenCombo
 - 👀 I’m interested in Cybersecurity
