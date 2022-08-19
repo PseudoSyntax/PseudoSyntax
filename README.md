@@ -1,9 +1,9 @@
 
 
-- 👋 Hi, I’m Mr.ChickenCombo
-- 👀 I’m interested in Cybersecurity
-- 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me: Discord
+- 👋 Hi
+- 👀 I’m interested in 
+- 💞️ I’m looking to 
+- 📫 How to reach me: 
 
 <!---
 PseudoSyntax/PseudoSyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
