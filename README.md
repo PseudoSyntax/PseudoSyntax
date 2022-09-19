@@ -1,5 +1,5 @@
-![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoSyntax&theme=discord_old_blurple )
-![PseudoSyntax's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PseudoSyntax&theme=discord_old_blurple )
+![Repository Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PseudoSyntax&theme=github_dark   )
+![PseudoSyntax's GitHub stats](https://github-readme-stats.vercel.app/api/?username=PseudoSyntax&theme=github_dark  )
 
 <!---
 PseudoSyntax/PseudoSyntax is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
